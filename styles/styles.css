@@ -1,0 +1,93 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+
+a {
+  text-decoration: none;
+}
+
+.town-preview {
+  height: 200px;
+}
+.primary-header {
+padding: 60px  60px 60px 60px;
+min-height: 100vh;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-direction: column;
+}
+.main-heading {
+  font-size: 70px;
+  color: #205d76;
+margin-bottom: 60px;
+}
+.main-heading {
+  font-size: 70px;
+  color: #205d76;
+
+}
+.store-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+.building {
+  width: 312px;
+margin-right: 60px;
+}
+.category-heading {
+  color: #205d76;
+  font-size: 30px;
+
+}
+.store-list {
+  color: #dd690a;
+
+}
+.store-name {
+
+}
+.building {
+}
+.background-one {
+  background-color: rgb(184, 168, 144);
+}
+.background-two {
+  background-color: rgb(125, 145, 124);
+}
+.background-three {
+  background-color: rgb(170, 192, 226);
+}
+.background-four {
+  background-color: rgb(197, 151, 185);
+}
+.background-five {
+  background-color: rgb(63, 61, 68);
+}
+.main-menu {
+  width: 100%;
+  margin-bottom: 30px;
+}
+.main-menu-list {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  width: 100%;
+}
+.main-menu-item-link {
+  color: #205d76;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: all .6s;
+}
+.main-menu-item-link:hover {
+  text-decoration: underline;
+  color: #dd690a;
+}
+/* margin - внешние отступы элементов
+
+/* От общего к частному!!!!!!
